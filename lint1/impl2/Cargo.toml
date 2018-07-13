@@ -1,0 +1,9 @@
+[package]
+name = "impl2"
+version = "0.1.0"
+authors = ["eonil <pub.dev@eonil.com>"]
+
+[lib]
+crate-type = ["dylib"]
+
+[dependencies]
